@@ -1,0 +1,3 @@
+Le dossier .git est la « base de données » de votre projet Git.
+Il contient l'historique des livraisons, les branches, les configurations et les métadonnées nécessaires au suivi des modifications et des versions.
+Sans .git, votre dossier n'est qu'un simple fichier sans contrôle de version.
